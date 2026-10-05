@@ -1,0 +1,31 @@
+label,subject,body
+phishing,Urgent: Your account will be suspended,Your account has been flagged. Verify your password immediately by clicking the secure verification link.
+phishing,You won a cash prize,Congratulations! You have won a cash prize. Send your bank details now to claim your reward.
+phishing,Verify your bank account,Your bank account needs urgent verification. Click the link and enter your username and password to avoid suspension.
+phishing,Payment failed - update details,Your recent payment failed. Update your card details immediately using the attached verification page.
+phishing,Security alert login detected,We detected unusual activity. Confirm your password and security code immediately to protect your account.
+phishing,Your mailbox is full,Your mailbox is almost full. Click here and enter your login details to prevent email service interruption.
+phishing,Invoice attached - immediate action,Your invoice is overdue. Open the attachment and provide your account information for payment confirmation.
+phishing,Claim your lottery reward,You were selected as a lottery winner. Pay the processing fee and provide your personal details to receive the money.
+phishing,Password expires today,Your password expires today. Sign in through the verification link and confirm your current password.
+phishing,Refund notification,You are eligible for a refund. Submit your bank account information immediately to receive the refund.
+phishing,HR salary verification required,Payroll requires immediate verification. Open the link and enter your employee login and banking information.
+phishing,Gift card security verification,Your gift card has been selected for a security check. Provide the code immediately to keep the balance.
+phishing,Unusual purchase detected,"An unusual purchase was detected. If this was not you, click the emergency link and verify your account password."
+phishing,Cloud storage account warning,Your cloud storage account will be deleted. Verify your login details immediately to restore access.
+phishing,Delivery address confirmation,Your package cannot be delivered. Confirm your address and payment information using the link below.
+legitimate,Team meeting tomorrow,"Hi team, our weekly project meeting is scheduled for tomorrow at 10 AM. Please bring your progress updates."
+legitimate,Project report review,Please review the attached project report before Friday and share your comments with the team.
+legitimate,Lunch invitation,We are having lunch together after the seminar today. Let me know if you can join.
+legitimate,Class schedule update,The database systems class will start at 9 AM tomorrow in the usual classroom.
+legitimate,Monthly newsletter,Here is the monthly company newsletter with updates about recent activities and upcoming events.
+legitimate,Library book reminder,This is a reminder that your library book is due next Monday. Please return it on time.
+legitimate,Interview preparation resources,I have shared some interview preparation resources. Review them before our practice session.
+legitimate,Project meeting notes,Attached are the notes from today's project meeting. Please let me know if anything needs correction.
+legitimate,Workshop registration confirmation,Your registration for the Python workshop is confirmed. The workshop begins at 2 PM on Saturday.
+legitimate,Assignment submission reminder,This is a reminder to submit your assignment through the college portal before the deadline.
+legitimate,Office holiday announcement,The office will remain closed on Monday due to the scheduled holiday.
+legitimate,Training session feedback,Thank you for attending the training session. Please complete the feedback form when convenient.
+legitimate,Team lunch schedule,The team lunch is planned for Friday at 1 PM. Please confirm your availability.
+legitimate,Course completion certificate,Your course completion certificate is available in the student portal. You can download it when convenient.
+legitimate,Weekly project update,Here is this week's project update. Development is progressing according to the current schedule.
